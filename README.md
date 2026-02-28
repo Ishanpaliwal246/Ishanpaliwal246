@@ -37,12 +37,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ishanpaliwal246/Ishanpaliwal246/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Ishanpaliwal246/Ishanpaliwal246/blob/output/github-snake-dark.svg)
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ronitjain235.ronitjain235&"  />
-</div>
 
 ###

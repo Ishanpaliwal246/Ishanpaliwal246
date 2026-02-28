@@ -1,3 +1,6 @@
+
+[![MasterHead](https://1.bp.blogspot....)](https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif)
+
 <h4 align="left">I’m an Electronics & Communication Engineering student driven by curiosity and innovation. I enjoy building intelligent systems that combine hardware and software — turning ideas into working prototypes.<br><br>My interests lie in Embedded Systems, IoT, and Computer Vision. I have hands-on experience with ESP32, Arduino, Raspberry Pi, and OpenCV, and I enjoy developing smart solutions like IoT monitoring dashboards and AI-based detection systems.<br><br>I’m constantly exploring new technologies, improving my programming skills in C, C++, Embedded C, and Python, and working on projects that solve real-world problems.<br><br>I believe technology should be practical, efficient, and impactful — and I’m always learning to build better systems.</h4>
 
 ###
@@ -36,10 +39,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<a href="https://www.linkedin.com/in/ishan-paliwal-437a89299/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:ishanpaliwalkgn@gmail.com?subject=Hello Ronit&body=I saw your GitHub profile and wanted to connect!">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 
 
 <br clear="both">

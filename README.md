@@ -54,6 +54,9 @@
 ![snake gif](https://github.com/Ishanpaliwal246/Ishanpaliwal246/blob/output/github-snake-dark.svg)
 
 ###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ishanpaliwal246.Ishanpaliwal246&"  />
+</div>
 
 
 ###
